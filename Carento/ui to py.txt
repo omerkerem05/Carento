@@ -1,0 +1,8 @@
+python -m PyQt5.uic.pyuic -x ui/LoginPage.ui   -o ui_py/LoginPage.py
+python -m PyQt5.uic.pyuic -x ui/AdminPage.ui   -o ui_py/AdminPage.py
+python -m PyQt5.uic.pyuic -x ui/UserPage.ui    -o ui_py/UserPage.py
+python -m PyQt5.uic.pyuic -x ui/AddPage.ui     -o ui_py/AddPage.py
+python -m PyQt5.uic.pyuic -x ui/EditPage.ui    -o ui_py/EditPage.py
+python -m PyQt5.uic.pyuic -x ui/RentPage.ui    -o ui_py/RentPage.py
+python -m PyQt5.uic.pyuic -x ui/ReturnPage.ui  -o ui_py/ReturnPage.py
+
