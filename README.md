@@ -36,7 +36,7 @@ Proje, **MVC (Model-View-Controller)** yapısına benzer **katmanlı bir mimari*
 - **Python** 3.13+
 - **PyQt5** (Qt Designer)
 - **SQLite3**
-- **OOP (Nesneye Yönelimli Programlama)**
+- **OOP (Nesne Yönelimli Programlama)**
 
 ---
 
